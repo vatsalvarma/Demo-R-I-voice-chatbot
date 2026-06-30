@@ -4,7 +4,7 @@ https://vatsalvarma.github.io/Demo-R-I-voice-chatbot/
 c
 ffcccccccccccccccccccccc  cccccccccc
 ccccccccccccc cc cccccc
-cccccccccccc cccccvc
+cccccccccccc cccccvcc
 ccccc cccc
 cc  cxxc
 cc
