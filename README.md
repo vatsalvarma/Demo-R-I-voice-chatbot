@@ -5,6 +5,6 @@ c
 ffcccccccccccccccccccccc  ccccccc
 ccccccccccccc cc ccccc
 cccccccccccc cc
-ccccc cc
+ccccc ccc
 cc  c
 cc
