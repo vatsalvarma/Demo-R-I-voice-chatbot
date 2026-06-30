@@ -5,5 +5,5 @@ c
 ffcccccccccccccccccccccc  cccccccccccc c
 ccccccccccccc cc ccccccccccc
 ccccc ccccccc c c
-cc  cxxcc c
+cc  cxxcc cc
 ccc
